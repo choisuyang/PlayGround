@@ -9,6 +9,9 @@ export default function Initalize() {
       <Link to="/apple">
         <Button background="primary">Apple</Button>
       </Link>
+      <Link to="/todoList">
+        <Button background="primary">todoList</Button>
+      </Link>
     </div>
   );
 }
